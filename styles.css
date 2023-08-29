@@ -1,0 +1,33 @@
+.mainHeader {
+    color: red;
+    text-decoration: underline ;
+    margin-top: 100px;
+}
+.space
+{
+    margin-top: 150px;
+}
+.centerilized
+{
+    text-align: center;
+}
+
+.centered-list {
+    display: flex;
+    padding-left: 40%;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
+
+
+
+
+
+
+
